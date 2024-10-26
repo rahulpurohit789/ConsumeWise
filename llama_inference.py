@@ -6,7 +6,7 @@ import sys
 
 def evaluate_product(product_name):
     # Replace with your Hugging Face token
-    hugging_face_token = "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"
+    hugging_face_token = ""
     
     # Refined prompt to strictly request only JSON output
     prompt = (
